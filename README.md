@@ -3,14 +3,14 @@
 ## 🎯 Status Github:
 <div align="center">
   <a href="https://github.com/raulrodmo">
-      <img width="500em" src="https://github-readme-stats.vercel.app/api?username=raulrodmo&show_icons=true&text_color=000000&bg_color=BDBDBD&title_color=FF7816&icon_color=FF4B00&include_all_commits=true&count_private=true&hide_border=true"/>
-      <img width="500em" src="https://github-readme-streak-stats.herokuapp.com/?user=raulrodmo&text_color=000000&background=BDBDBD&stroke=FF4B00&ring=FF7816&fire=FF7816&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&currStreakLabel=FF7816&hide_border=true"/>
+      <img width="400em" src="https://github-readme-stats.vercel.app/api?username=raulrodmo&show_icons=true&text_color=000000&bg_color=BDBDBD&title_color=FF7816&icon_color=FF4B00&include_all_commits=true&count_private=true&hide_border=true"/>
+      <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=raulrodmo&text_color=000000&background=BDBDBD&stroke=FF4B00&ring=FF7816&fire=FF7816&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&currStreakLabel=FF7816&hide_border=true"/>
 </div> 
 
 ## 💻 Most used technologies among my projects:
 <div align="center">
   <a href="https://github.com/raulrodmo">
-      <img width="300em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulrodmo&text_color=000000&langs_count=10&bg_color=BDBDBD&title_color=FF7816&icon_color=FF4B00&hide_border=true"/>
+      <img width="250em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulrodmo&text_color=000000&langs_count=10&bg_color=BDBDBD&title_color=FF7816&icon_color=FF4B00&hide_border=true"/>
 </div> 
 
 ## 🌱I’m currently learning
