@@ -9,7 +9,7 @@
 
 ## 💻 Most used technologies among my projects:
 <div align="center">
-      <img width="250em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulrodmo&text_color=000000&langs_count=10&bg_color=BDBDBD&title_color=FF7816&icon_color=FF4B00&hide_border=true"/>
+      <img width="300em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulrodmo&text_color=000000&langs_count=10&bg_color=BDBDBD&title_color=FF7816&icon_color=FF4B00&hide_border=true"/>
 </div> 
 
 ## 🌱I’m currently learning
