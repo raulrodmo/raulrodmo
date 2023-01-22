@@ -38,7 +38,7 @@
 ## 📫 How to reach me
 
 <div>
-      <a href="raulrm_dev@gmail.com"><img id="gmail" src="https://cdn-icons-png.flaticon.com/512/104/104069.png" alt="email" width="60" height="60"/></a>
-      <a href="https://www.linkedin.com/in/raul-rodrigues-6a66a7235/"><img id="linkedin" src="https://cdn-icons-png.flaticon.com/512/61/61109.png" alt="linkedin" width="60" height="60"/></a>
-      <a href="https://www.instagram.com/raul_rodmo/"><img id="instagram" src="https://cdn-icons-png.flaticon.com/512/1077/1077042.png" alt="instagram" width="60" height="60"/></a>   
+      <a href="raulrm_dev@gmail.com"><img id="gmail" src="https://cdn-icons-png.flaticon.com/512/2875/2875435.png" alt="email" width="60" height="60" margin="18"/></a>
+      <a href="https://www.linkedin.com/in/raul-rodrigues-6a66a7235/"><img id="linkedin" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="60" height="60"/></a>
+      <a href="https://www.instagram.com/raul_rodmo/"><img id="instagram" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="instagram" width="60" height="60"/></a>   
 </div>
