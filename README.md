@@ -3,8 +3,8 @@
 ## 🎯 Status Github:
 <div align="center">
       <a href="https://github.com/raulrodmo">
-            <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raulrodmo&show_icons=true&text_color=000000&bg_color=BDBDBD&title_color=FF7816&icon_color=FF4B00&include_all_commits=true&count_private=true&hide_border=true"/>
-            <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=raulrodmo&text_color=000000&background=BDBDBD&stroke=FF4B00&ring=FF7816&fire=FF7816&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&currStreakLabel=FF7816&hide_border=true"/>
+            <img height="150em" src="https://github-readme-stats.vercel.app/api?username=raulrodmo&show_icons=true&text_color=000000&bg_color=BDBDBD&title_color=FF7816&icon_color=FF4B00&include_all_commits=true&count_private=true&hide_border=true"/>
+            <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=raulrodmo&text_color=000000&background=BDBDBD&stroke=FF4B00&ring=FF7816&fire=FF7816&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&currStreakLabel=FF7816&hide_border=true"/>
 </div> 
 
 ## 💻 Most used technologies among my projects:
